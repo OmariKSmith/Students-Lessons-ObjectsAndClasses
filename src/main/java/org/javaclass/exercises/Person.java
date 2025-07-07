@@ -1,7 +1,8 @@
 package org.javaclass.exercises;
 
 //!                             Declare the appropriate toString method, accessors,
-//!                             mutators, and constructors for this class.
+//!                             and mutators.
+//!                             Declare a no arg constructor and at least 2 overloaded constructors.
 class Person {
     String name;
     double height;

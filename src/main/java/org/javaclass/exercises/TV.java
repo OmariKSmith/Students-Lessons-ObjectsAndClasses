@@ -1,7 +1,10 @@
 package org.javaclass.exercises;
 
 //!                             Declare the appropriate toString method, accessors,
-//!                             mutators, and constructors for this class.
+//!                             and mutators.
+//!                             Declare a no arg constructor and at least 2 overloaded constructors.
+//!                             Use a this() call to invoke an overloaded constructor in the default
+//!                             constructor.
 class TV {
     String brand;
     boolean isOn;
