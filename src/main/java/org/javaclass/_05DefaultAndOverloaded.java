@@ -32,7 +32,7 @@ public class _05DefaultAndOverloaded {
 //`                         A class can have as many overloaded constructors as needed.
 //`
 //`                         Overloaded constructors give a class multiple ways to initialize
-//`                         an object.
+//`                         an object. For example:
 
                             static class App3 {
                                 int id;
